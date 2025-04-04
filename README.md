@@ -18,7 +18,7 @@ You are free to use, modify, and share this template under the terms of the [MIT
 ## How to Use
 
 1. Clone or download this repository.
-2. Follow the instructions in the [https://github.com/MerlinHose/R.E.P.O-Mod-Template/tree/main/docs](`docs/`) folder to set up your mod.
+2. Follow the instructions in the [`docs/`](https://github.com/MerlinHose/R.E.P.O-Mod-Template/tree/main/docs) folder to set up your mod.
 3. Build and install your mod following the game's modding guidelines.
 
 Happy modding!
