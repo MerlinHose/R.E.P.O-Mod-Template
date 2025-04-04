@@ -85,8 +85,6 @@ C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\UnityEngine.Wi
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\UnityEngine.XRModule.dll
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\UnityEngine.ARModule.dll
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\UnityEngine.InputModule.dll
-C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\0Harmony.xml
-C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\BepInEx.xml
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\MonoMod.Utils.xml
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\bin\Debug\MonoMod.RuntimeDetour.xml
 C:\JetBrains\Rider\R.E.P.O-Mod-Template\REPOModTemplate\obj\Debug\REPOModTemplate.csproj.AssemblyReference.cache

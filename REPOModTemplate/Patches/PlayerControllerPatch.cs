@@ -5,11 +5,11 @@ namespace REPOModTemplate.Patches
     [HarmonyPatch(typeof(PlayerController))]
     public class PlayerControllerPatch
     {
-        [HarmonyPatch("CrouchSpeed")]
-        [HarmonyPrefix]
-        static void CrouchSpeedPatch(ref float result)
+        [HarmonyPostfix]
+        [HarmonyPatch("Start")]
+        static void ModifyCrouchSpeed()
         {
-            result = 3f;
+            PlayerController.instance.CrouchSpeed = 3f;
         }
     }
 }
